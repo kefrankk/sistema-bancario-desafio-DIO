@@ -1,4 +1,4 @@
-# sistema-bancario-simples-desafio-DIO
+# Sistema bancario simples - Desafio DIO
 
 O objetivo desse projeto é aplicar os conhecimentos em Python adquiridos durante o Bootcamp __Python AI Backend Developer__ na DIO. 
 
