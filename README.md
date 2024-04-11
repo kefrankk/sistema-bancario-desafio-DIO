@@ -1,4 +1,4 @@
-# 🏦 Sistema bancário simples - Desafio DIO
+# 🏦 Sistema bancário - Desafio DIO
 
 
 Este projeto foi desenvolvido como parte do Bootcamp **Python AI Backend Developer** na DIO, com o objetivo de aplicar e aprimorar os conhecimentos em Python adquiridos durante o curso.
