@@ -300,6 +300,7 @@ def main():
 
 
         elif operacao == '0':
+            print("Obrigado por utilizar nossos serviços. Volte sempre! \n")
             break
 
 
